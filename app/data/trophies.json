@@ -1,0 +1,892 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 trophies, as listed 18 November 2026",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "kind": "completion",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Earn the other 54 trophies and this one pops on its own. The long gate is A Long Road: 100% completion, which takes around 200 hours in total, so treat the platinum as a marathon, not a sprint. There are no online trophies and no difficulty trophies, so nothing is locked behind multiplayer or a hard mode.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Finish the opening mission Gone Fishing. It is the first story mission, so this is one of the earliest trophies you will earn. Story trophies pop as you play; there is no mission replay, so keep a manual save at the start of each chapter in case you need to go back.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Play through Chapter 1 to its end. Chapter trophies can pop at the start of the next chapter rather than on the last cutscene, so do not worry if it does not appear the instant the chapter ends. Before Chapter 1 ends, do Lucia's balcony meditation for Positive Mental Attitude — it disappears after this chapter.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Play through Chapter 2 to its end. Switching between Jason and Lucia opens after the Breakfast Run mission in this chapter, which opens up most of the side content and partner trophies. Keep a manual save from the start of the chapter.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Play through Chapter 3 to its end. Two things in this chapter are time-sensitive: the Race Against Yago in Yago's street racing strand, which counts toward Strangers & Freaks, and the Snap Gun jewelry store robbery for Sneakthief. Do Yago's race the moment it appears, and save first.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Play through Chapter 4 to its end. Near the end of this chapter, the optional mission That's Where The Money Is opens bank vault robberies, which you need for Maximum Withdrawal and Hot Together. Keep a manual save from the start of the chapter.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Finish the final story mission. Keep one untouched manual save from just before it, because there is no mission replay and no New Game Plus — that save is your only way back if you want to redo anything in the finale. Everything outside the story stays available after the credits.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission Breakfast Run in Chapter 2. It is unmissable: just play the story. Character switching between Jason and Lucia opens right after this mission, which is when most of the game's side content opens up.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission The Cartel Heist. It is unmissable: just play the story. Marked bills from bank jobs like this one can later be laundered through your contacts toward Dime on the Dollar.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission Child's Play. It is unmissable: just play the story. There is no mission replay, so if you want to re-experience a mission, your chapter-start manual saves are the only way back.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission Headliners. It is unmissable: just play the story. Story mission trophies pop as you play through the chapters, so this one needs no special preparation.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission VCIA Takedown. It is unmissable: just play the story. The mission takes place at Vice City International Airport, the same airport where the free-roam trophy Catch Me If You Can is earned by stealing a docked airliner.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the story mission Operation Savage Glory. It is unmissable: just play the story. Keep a manual save from the start of the chapter it falls in, since there is no mission replay.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "kind": "completion",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Reach 100% on the game's completion checklist, which appears after the story under Progress, then Stats, then 100% Completion. Work you do earlier still counts. The checklist's biggest pieces are 300 stunts (the trophy only needs 250), 70 of the 80 Challenges, 200 of the 277 vehicle models, all 8 bank vaults and all 39 illegal operations. Most of the roughly 200-hour platinum run is this checklist.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "GGRecon — GTA 6's trophy list is out, and the Platinum needs 100%", "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/" }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 250,
+      "countUnit": "stunts",
+      "guide": "Complete 250 stunts. Stunt jumps, under-the-bridge flights, knife flights and base jumps all count. Keep going past 250: 100% completion needs 300 stunts, so stopping at the trophy would leave work for later.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 9,
+      "countUnit": "activity types",
+      "guide": "Try each of the nine activity types once. You do not need to be good at any of them — one attempt at each is enough. Sample the activities as they unlock while you play the story and explore Leonida, and this pops early without a dedicated grind.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "GGRecon — GTA 6's trophy list is out, and the Platinum needs 100%", "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 42,
+      "countUnit": "gold medals",
+      "guide": "Earn a gold medal in every Shooting Range challenge — 42 gold medals across the two shooting ranges. There is no difficulty trophy in this game, so this is a skill check, not a grind: practice a range until the gold time or score feels comfortable, then move on. Ranges stay open after the story.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 14,
+      "countUnit": "locations",
+      "guide": "Win a Top Fun drone race at each of the 14 locations. You only need one win per location, not every race. Drone races stay available after the story, so work through the locations at your own pace in free roam.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 20,
+      "countUnit": "races",
+      "guide": "Win 20 different races. The word different matters: twenty wins in the same race do not count, so rotate through the race types and locations across Leonida. Races stay available after the story, so there is no rush.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "GGRecon — GTA 6's trophy list is out, and the Platinum needs 100%", "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/" }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Beat Cal in a fishing challenge. Fishing is one of the side activities in Leonida; challenge Cal when the option appears and out-fish him. Do it during your Chapter 1 playthrough if you can, alongside Lucia's balcony meditation and an arcade game, so the early side trophies are banked together.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete any one arcade game. Any of the four in-game arcade games counts, so pick the one you find easiest and play it through. Arcade games stay available after the story.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the final mission of Andy's stranger questline. Andy's strand is Lucia-only, and like the other side-story finales it stays available after the credits, so there is no deadline. Note that Andy's strand does not count toward Strangers & Freaks, because it has its own trophy.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the final mission of Kenton's stranger questline. Kenton's strand is one of the six side-story questlines that each end in a trophy, and they should all stay available after the credits. Work through his missions whenever they appear and the finale will unlock.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the final mission of Billy's stranger questline. Billy's strand is one of the six side-story questlines that each end in a trophy, and they should all stay available after the credits. Like Andy's and Tyrone's strands, it does not count toward Strangers & Freaks, because it has its own trophy.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activities",
+      "missable": true,
+      "count": 8,
+      "countUnit": "strands",
+      "guide": "Complete 8 stranger mission strands across Leonida. Only some questlines count: Andy's, Billy's and Tyrone's do not, because they have their own trophies. Check the trophy's progress counter after each strand you finish. One strand is time-sensitive: the Race Against Yago in Chapter 3 shows an hourglass icon, so do that race the moment it appears, and save first.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the final mission of Randy's stranger questline. Randy's strand is one of the six side-story questlines that each end in a trophy, and they should all stay available after the credits. Work through his missions whenever they appear and the finale will unlock.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Complete the final mission of Tyrone's stranger questline. Tyrone's strand is Jason-only, and like the other side-story finales it stays available after the credits. It does not count toward Strangers & Freaks, because it has its own trophy.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": true,
+      "count": null,
+      "countUnit": null,
+      "guide": "Meditate at every meditation spot across Leonida. Spots show as purple icons when you are close. Each outdoor spot should count twice if you meditate there with both characters, so bring your partner every time. The one missable risk in the whole list: Lucia's balcony meditation in Chapter 1 disappears after that chapter, so do it while you still can — after Lucia is home, check the kitchen in the morning and follow her out to the balcony of Jason's house. Keep a Chapter 1 save until the trophy pops.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "GGRecon — GTA 6's trophy list is out, and the Platinum needs 100%", "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/" }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Hunt a unique animal for Bret Vogel. His hunting questline is Jason-only and sends you after animals through target decks. A clean head or heart shot keeps the carcass pristine, which is what you want for a unique hunt. The questline stays available after the credits.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 3,
+      "countUnit": "card sets",
+      "guide": "Complete any 3 collectible card sets. Cards are scattered across Leonida as a collectible hunt, so pick up every card you pass while doing other things and the sets will fill in on their own. This is the trophy hunter's classic homework: slow, steady, and best done alongside the rest of the list.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "GGRecon — GTA 6's trophy list is out, and the Platinum needs 100%", "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/" }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 100,
+      "countUnit": "locations",
+      "guide": "Use the WAiNK app at 100 locations across Leonida. WAiNK is the in-game app for tagging spots, so open it whenever you reach a new place and the count climbs as you explore. Exploring the whole map for The Goodtime State will cover a large part of this total by itself.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 50,
+      "countUnit": "challenges",
+      "guide": "Complete 50 Challenges, listed under Progress, then Challenges. Many complete on their own while you play, so check the list early and let the easy ones come to you. Keep going past 50: 100% completion needs 70 of the 80 Challenges.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. The easiest way is a bank vault robbery: vault jobs give you a 4-star Wanted Level straight away, and you need your partner along to carry the bags anyway. The trophy only pops once you have left the red heat zone, not just the flashing search area, so keep driving until you are fully clear.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 3,
+      "countUnit": "shops",
+      "guide": "Call your partner, then rob three shops in a row while the police are still chasing you. If the stars fade and you are only in the red heat zone, the chain breaks, so keep the heat up between shops. The trophy can take about 30 seconds to pop after you leave the third shop, so give it a moment before hitting a fourth.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 100,
+      "countUnit": "vehicles",
+      "guide": "Discover 100 vehicles. Scanning a vehicle with the WAiNK app counts as discovering it, so scan traffic as you drive and the total climbs fast. Keep going past 100: 100% completion needs 200 of the 277 base models.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 5,
+      "countUnit": "enemies",
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-motion aim: press L3 and R3 while aiming. Pick a group of gang enemies, such as the guards at an illegal operation, and use an assault rifle. Adrenaline extends Focus, so top it up before the attempt.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Steal a large passenger plane that is docked at a boarding bridge at Vice City International Airport. Planes parked elsewhere on the airfield do not count. The planes at gates E3 and E4 work: get up to the cockpit, back out toward the runway and take off. The trophy is delayed — fly about 1 km away from the airport and it pops. Save first, because the police come fast.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Get into a military tank. Tanks should be parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map. Save first, get in, and drive and fire until the trophy pops.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Rob a jewelry store without being detected. The Chapter 3 mission Yasmani's Jewelry Jobs gives you the Snap Gun and opens jewelry store robberies: go to a store's locked back door and use the Snap Gun on it. Kicking the door in sets off the alarm, so do not. Inside the back room, find the note with the safe code, open the safe, and leave without being seen. Richardson Jewelry & Diamonds in Vice City is a good target. If someone spots you, reload rather than push on.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 5,
+      "countUnit": "bank vaults",
+      "guide": "Rob 5 bank vaults and escape. Bank vaults unlock through That's Where The Money Is, an optional mission near the end of Chapter 4: tail an armored security van to a large bank and get into the vault while the guard has it open. You cannot carry all the bags alone, so bring your partner. Vault jobs give you a 4-star Wanted Level straight away, so escaping one with your partner also earns Hot Together. The 100% checklist needs all eight vaults.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Rob an armored truck and escape. Armored trucks run their routes around Leonida in free roam; hit one, take the cash, and break away clean. Like Hot Together, this only pops once you have left the red heat zone, not just the flashing search area, so keep moving until you are fully clear.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectibles",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Explore all of Leonida. Visit every region of the map — Vice City, the surrounding towns, the countryside and the far southwest island. Exploring also feeds You WAiNKer! and Whip It Good, so tag locations with WAiNK and scan vehicles as you travel, and the three trophies will progress together.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 9,
+      "countUnit": "gangs",
+      "guide": "Rob one illegal operation belonging to each of the nine gangs. Illegal operations are marked around Leonida; hit one per gang and the trophy pops. The 100% checklist wants all 39 operations, so this trophy pops along the way if you keep clearing them.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "No confirmed unlock method at launch: the description is the only hint, and the trophy may pop while you play normally. What the description asks for is a cocktail with a view on Ocean Beach — try ordering a drink at a beachfront bar in Vice City and enjoy the view. This guide will be updated once a method is confirmed.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "No confirmed unlock method at launch: the description is the only hint, and the trophy may pop while you play normally. The classic style it hints at is driving a car straight through a vehicle showroom's glass front — try it at a dealership showroom in Vice City. This guide will be updated once a method is confirmed.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Rob Kingpin Bowling, the Kolt & Associates bowling alley, an illegal operation you visit in Chapter 2. Bring Sticky Bombs. Take all three key valuables: the luxury watch in an office, the shotgun on a table, and the contents of the office safe, which you blow open with a Sticky Bomb. Then escape the police. If you leave something behind, the operation comes back later, so it is not missable.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "Reach maximum Strength with both Jason and Lucia. Buy a gym membership and train with your partner there, since the partner trains alongside you. Train at a gym with your partner along until both of you are at maximum Strength and the trophy should pop.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": 500,
+      "countUnit": "actions",
+      "guide": "Make 500 actions that change your Criminal Profile. Robberies and fights feed it, so it fills up without a separate grind — just play the game the way the rest of the list asks you to, robbing and fighting across Leonida, and the counter climbs on its own.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "No confirmed unlock method at launch: the description is the only hint, and the trophy may pop while you play normally. The description suggests succeeding at something on a second attempt — if a mission or activity fails once, try it again right away rather than moving on. This guide will be updated once a method is confirmed.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "No confirmed unlock method at launch: the description is the only hint, and the trophy may pop while you play normally. The name and description point to something strange or unexplained happening in the world — keep an eye out for odd events and encounters while exploring Leonida. This guide will be updated once a method is confirmed.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "countUnit": null,
+      "guide": "No confirmed unlock method at launch: the description is the only hint, and the trophy may pop while you play normally. A melee drive-by means striking people from a moving vehicle with a melee weapon — try it from a slow-moving car in a busy area. This guide will be updated once a method is confirmed.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 250000,
+      "countUnit": "dollars laundered",
+      "guide": "Earn $250,000 by laundering Marked Bills through your contacts. Marked bills come from bank and payday loan jobs; sell them to your contacts to launder them. The $250,000 total is cumulative, so it builds up across every bank job you do for Maximum Withdrawal and the story.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 100000,
+      "countUnit": "dollars spent",
+      "guide": "Spend $100,000 across all shops. The total is cumulative across every kind of shop, so it builds up naturally as you buy weapons, clothes, food and everything else the list asks for. If it is the last trophy standing, the garages for Little Boxes (about $160,000 together) will push it over the line by themselves.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 8,
+      "countUnit": "garages",
+      "guide": "Buy all eight garages in the Vice City Real Estate app, which unlocks after the Chapter 2 mission Daily Driver. Together they cost about $160,000. Garages the story gives you do not count — only the eight you buy. Each garage also gives you space to register cars for On the Spot, so buy garages first and register cheap cars.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activities",
+      "missable": false,
+      "count": 10,
+      "countUnit": "vehicles",
+      "guide": "Register 10 vehicles to the Scooter Bros app. The Chapter 2 mission Moses opens the app: take a stolen car to Moses, choose Respray, then Register. From Chapter 3 you can also register cars with a standard tracker at Pay 'n' Spray. Each car needs a free garage space, so buy garages first and register cheap cars.",
+      "sources": [
+        { "name": "Exophase — GTA VI trophy list, as reported by Push Square, 18 Nov 2026", "url": null },
+        { "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI (PS5)</title>
+<meta name="description" content="A checklist and guide for all 55 Grand Theft Auto VI trophies on PlayStation 5: official list, roadmap to the platinum, missable flags, and a guide to each trophy with its sources. Works offline.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="tagline">All 55 trophies, one checklist. A roadmap to the platinum, the missable ones flagged, and a guide to each trophy with its sources. No account, no network — your progress stays in this browser.</p>
+    <div class="progress-wrap" aria-label="Trophy progress">
+      <div class="progress-line"><span id="progressText">0 of 55 earned</span><span id="progressPct">0%</span></div>
+      <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+      <p class="progress-note" id="progressNote">Earn every other trophy to unlock the platinum, Vice Got a Price!</p>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="controls" aria-label="Tracker controls">
+    <div class="controls-row">
+      <label class="search-box">Search
+        <input id="searchInput" type="search" placeholder="Trophy name or word from its description…" autocomplete="off">
+      </label>
+      <label class="grade-box">Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check-line"><input id="hideEarned" type="checkbox"> Hide earned</label>
+      <label class="check-line"><input id="spoilerToggle" type="checkbox" checked> Hide story spoilers</label>
+    </div>
+    <div class="kind-row" id="kindRow" role="group" aria-label="Filter by kind">
+      <button type="button" data-kind="all" class="chip active">All 55</button>
+      <button type="button" data-kind="story" class="chip">Story</button>
+      <button type="button" data-kind="missable" class="chip">Missable</button>
+      <button type="button" data-kind="collectibles" class="chip">Collectibles</button>
+      <button type="button" data-kind="activities" class="chip">Activities</button>
+      <button type="button" data-kind="online" class="chip">Online</button>
+    </div>
+    <div class="controls-row">
+      <button type="button" id="exportBtn" class="btn">Export progress</button>
+      <button type="button" id="importBtn" class="btn">Import progress</button>
+      <input id="importFile" type="file" accept="application/json,.json" hidden>
+      <button type="button" id="resetBtn" class="btn btn-quiet">Reset progress</button>
+      <span class="save-note" id="saveNote">Progress saves automatically in this browser.</span>
+    </div>
+  </section>
+
+  <section class="roadmap" id="roadmap" aria-label="Roadmap to the platinum">
+    <h2>Roadmap to the platinum</h2>
+    <p class="roadmap-intro">Around 200 hours, most of it the 100% checklist. There are no online trophies, no difficulty trophies and no mission medals — it is long, not hard. One rule matters more than any other: <strong>there is no mission replay and no New Game Plus</strong>, so keep a manual save at the start of every chapter and one untouched save from just before the final mission.</p>
+    <div id="roadmapStages"></div>
+  </section>
+
+  <section class="list-section" aria-label="Trophy list">
+    <h2 id="listHeading">All trophies</h2>
+    <p class="list-note" id="listNote"></p>
+    <div id="trophyList" class="trophy-list"></div>
+    <p class="empty-note" id="emptyNote" hidden>No trophies match these filters. Try clearing the search or choosing another kind.</p>
+  </section>
+
+  <section class="about" aria-label="About this guide">
+    <h2>How this guide is built</h2>
+    <p>Trophy names, descriptions and grades are the official PlayStation 5 list as published on 18 November 2026 (Exophase, as reported by Push Square). Each guide is written for this page in its own words and names its sources beside it; where no unlock method was confirmed at launch, the guide says so instead of guessing. The five trophies with no confirmed method at launch are In The Beginning…, Capital Offense, Bad Luck, I Guess, The Truth Is Out There and Ten Pin.</p>
+    <p>Missable flags come from the same sources: the only confirmed missable risk is Lucia’s balcony meditation in Chapter 1, which counts toward Positive Mental Attitude, plus the time-sensitive Race Against Yago in Chapter 3, which counts toward Strangers &amp; Freaks. Everything else stays available after the credits.</p>
+    <p class="fineprint">This is an unofficial fan guide. Grand Theft Auto and GTA are trademarks of Take-Two Interactive; this page uses no Rockstar Games logo, artwork or box art. Trophy data: Exophase via Push Square (18 Nov 2026); unlock details: Output Lag, GTA 6 Trophy List; cross-checks: GGRecon and GTA Vice City Hub. All guides on this page are original writing.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Leonida Trophy Guide — an offline checklist for GTA VI on PS5. Your progress never leaves this browser.</p>
+</footer>
+
+<script src="app.js" defer></script>
+</body>
+</html>
